@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E624FA28-FCB9-4A06-93B6-FD79BEFFECB2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A85C0A1-39C7-4B6E-A50F-BE7C0D3C813F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Telephone/AKSIPUserAgent.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "395"
+            endingLineNumber = "395"
+            landmarkName = "-thread_startInAutoreleasePoolWithCompletion:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A85C0A1-39C7-4B6E-A50F-BE7C0D3C813F - 5d6196848d7debc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AKSIPUserAgent thread_startInAutoreleasePoolWithCompletion:]"
+                  moduleName = "Telephone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ap/work/voip/p1/Telephone/Telephone/AKSIPUserAgent.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "396"
+                  endingLineNumber = "396"
+                  offsetFromSymbolStart = "2360">
+               </Location>
+               <Location
+                  uuid = "0A85C0A1-39C7-4B6E-A50F-BE7C0D3C813F - 5d6196848d7debc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AKSIPUserAgent thread_startInAutoreleasePoolWithCompletion:]"
+                  moduleName = "Telephone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ap/work/voip/p1/Telephone/Telephone/AKSIPUserAgent.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "396"
+                  endingLineNumber = "396"
+                  offsetFromSymbolStart = "2332">
+               </Location>
+               <Location
+                  uuid = "0A85C0A1-39C7-4B6E-A50F-BE7C0D3C813F - 5d6196848d7debef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AKSIPUserAgent thread_startInAutoreleasePoolWithCompletion:]"
+                  moduleName = "Telephone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ap/work/voip/p1/Telephone/Telephone/AKSIPUserAgent.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "395"
+                  endingLineNumber = "395"
+                  offsetFromSymbolStart = "2332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F64DA47-09D5-4AFE-B439-B232033FB0EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Telephone/AKSIPUserAgent.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "384"
+            endingLineNumber = "384"
+            landmarkName = "-thread_startInAutoreleasePoolWithCompletion:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
